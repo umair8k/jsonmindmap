@@ -52,13 +52,13 @@ analytics dumps — up to several megabytes, with no slowdown.
 ### Grid view
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/media/screenshot-grid.png" alt="Grid view" />
+  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/screenshot-grid.png" alt="Grid view" />
 </p>
 
 ### Search & path jump
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/media/screenshot-search.png" alt="Search and path jump" />
+  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/screenshot-search.png" alt="Search and path jump" />
 </p>
 
 ---
