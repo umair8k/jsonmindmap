@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/media/screenshot-mindmap.png" alt="JSON Mindmap — mindmap view" />
+  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/screenshot-mindmap.png" alt="JSON Mindmap — mindmap view" />
 </p>
 
 ---
