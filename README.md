@@ -4,6 +4,10 @@
   <i>Turn any JSON file into an interactive mindmap — explore, search and export in seconds.</i>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/media/screenshot-mindmap.png" alt="JSON Mindmap — mindmap view" />
+</p>
+
 ---
 
 ## Why JSON Mindmap?
@@ -40,6 +44,22 @@ analytics dumps — up to several megabytes, with no slowdown.
   or **JPG**, or copy a PNG straight to the clipboard.
 - **Performance built in** — viewport culling, memoised cards and lazy child
   loading keep the canvas smooth on large files.
+
+---
+
+## Screenshots
+
+### Grid view
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/media/screenshot-grid.png" alt="Grid view" />
+</p>
+
+### Search & path jump
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umair8k/jsonmindmap/main/media/screenshot-search.png" alt="Search and path jump" />
+</p>
 
 ---
 
